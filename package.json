@@ -1,0 +1,15 @@
+{
+  "name": "guten",
+  "version": "0.0.1",
+  "ghost": {
+    "permissions": {
+      "helpers": [
+        "timeline"
+      ]
+    }
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "lodash": "^4.17.4"
+  }
+}
